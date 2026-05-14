@@ -202,8 +202,8 @@ export default function HeaderComp() {
 
         {/* Logo inside drawer */}
         <p className="absolute top-5 left-6 text-xl font-black tracking-tight">
-          <span className="text-bb-yellow">Black</span>
-          <span className="text-white">Giraffe</span>
+          <span className="text-bb-yellow">Nexora</span>
+          <span className="text-white">Studio</span>
         </p>
 
         <div className="text-[10px] font-bold uppercase tracking-widest text-white/20 mb-5">
