@@ -7,7 +7,7 @@ export default function RefundPolicy() {
         {/* Hero */}
         <section className="px-8 max-w-5xl mx-auto mb-20 text-center md:text-left">
           <h1 className="text-5xl md:text-7xl font-extrabold mb-6">
-            Refund <span className="text-[#e3f700]">Policy</span>
+            Refund <span className="text-bb-yellow">Policy</span>
           </h1>
 
           <p className="text-gray-400 text-lg md:text-xl max-w-2xl">
@@ -19,8 +19,8 @@ export default function RefundPolicy() {
         {/* Content */}
         <div className="px-8 max-w-5xl mx-auto space-y-24">
           {/* Notice */}
-          <div className="bg-[#262626] rounded-xl p-8 border-l-4 border-[#e3f700]">
-            <h3 className="text-[#e3f700] font-bold text-xl mb-4">
+          <div className="bg-[#262626] rounded-xl p-8 border-l-4 border-[#00bdf7]">
+            <h3 className="text-bb-yellow font-bold text-xl mb-4">
               Important Notice
             </h3>
 
@@ -40,7 +40,7 @@ export default function RefundPolicy() {
             <div className="grid md:grid-cols-2 gap-8">
               {/* Eligible */}
               <div className="bg-[#131313] p-10 rounded-xl">
-                <h3 className="text-xl font-bold mb-4 text-[#e3f700]">
+                <h3 className="text-xl font-bold mb-4 text-bb-yellow">
                   Eligible for Refund
                 </h3>
 
@@ -92,7 +92,7 @@ export default function RefundPolicy() {
                 </p>
               </div>
 
-              <div className="bg-[#e3f700] p-8 rounded-xl text-black">
+              <div className="bg-bb-yellow p-8 rounded-xl text-black">
                 <h4 className="text-xl font-bold mb-4">
                   Step 03
                 </h4>
@@ -115,7 +115,7 @@ export default function RefundPolicy() {
             </p>
 
             <div className="flex justify-center gap-4">
-              <button className="bg-[#e3f700] text-black px-8 py-3 rounded-lg font-bold">
+              <button className="bg-bb-yellow text-black px-8 py-3 rounded-lg font-bold">
                 Contact Support
               </button>
 

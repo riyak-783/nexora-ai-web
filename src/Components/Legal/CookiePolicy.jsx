@@ -4,12 +4,12 @@ export default function CookiePolicy() {
       {/* Hero */}
       <header className="pt-48 pb-24 px-8 text-left">
         <div className="max-w-7xl mx-auto">
-          <span className="text-[#e3f700] uppercase tracking-[0.3em] text-xs font-bold mb-6 block">
+          <span className="text-bb-yellow uppercase tracking-[0.3em] text-xs font-bold mb-6 block">
             Legal Architecture
           </span>
 
           <h1 className="text-5xl md:text-7xl font-extrabold mb-8">
-            Cookie <span className="text-[#e3f700]">Policy</span>
+            Cookie <span className="text-bb-yellow">Policy</span>
           </h1>
 
           <p className="text-gray-400 text-lg md:text-xl max-w-2xl">
@@ -27,7 +27,7 @@ export default function CookiePolicy() {
               <p className="text-xs text-gray-500 uppercase mb-6">Navigation</p>
 
               <nav className="flex flex-col gap-4 border-l border-white/10 pl-6">
-                <a className="text-[#e3f700] font-bold text-sm">Overview</a>
+                <a className="text-bb-yellow font-bold text-sm">Overview</a>
                 <a className="text-gray-400 hover:text-white text-sm">
                   Cookie Types
                 </a>
@@ -117,14 +117,14 @@ export default function CookiePolicy() {
 
                   <tbody className="divide-y divide-white/10">
                     <tr>
-                      <td className="px-6 py-4 text-[#e3f700]">_px_session</td>
+                      <td className="px-6 py-4 text-bb-yellow">_px_session</td>
                       <td className="px-6 py-4">First Party</td>
                       <td className="px-6 py-4">Maintains session state</td>
                       <td className="px-6 py-4">Session</td>
                     </tr>
 
                     <tr>
-                      <td className="px-6 py-4 text-[#e3f700]">
+                      <td className="px-6 py-4 text-bb-yellow">
                         _ga_analytics
                       </td>
                       <td className="px-6 py-4">Google</td>
@@ -133,7 +133,7 @@ export default function CookiePolicy() {
                     </tr>
 
                     <tr>
-                      <td className="px-6 py-4 text-[#e3f700]">_li_id</td>
+                      <td className="px-6 py-4 text-bb-yellow">_li_id</td>
                       <td className="px-6 py-4">LinkedIn</td>
                       <td className="px-6 py-4">Marketing attribution</td>
                       <td className="px-6 py-4">90 Days</td>
@@ -155,7 +155,7 @@ export default function CookiePolicy() {
               </p>
 
               <div className="flex gap-4">
-                <button className="bg-[#e3f700] text-black px-8 py-3 rounded-lg font-bold">
+                <button className="bg-bb-yellow text-black px-8 py-3 rounded-lg font-bold">
                   Open Preferences
                 </button>
 

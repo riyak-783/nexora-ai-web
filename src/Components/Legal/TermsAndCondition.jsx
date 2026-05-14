@@ -5,12 +5,12 @@ export default function TermsAndCondition() {
         <div className="max-w-4xl mx-auto px-6">
           {/* Header */}
           <header className="mb-20">
-            <div className="inline-block px-3 py-1 rounded-full bg-[#262626] text-[#e3f700] text-xs font-bold uppercase mb-6">
+            <div className="inline-block px-3 py-1 rounded-full bg-[#262626] text-bb-yellow text-xs font-bold uppercase mb-6">
               Legal Documentation
             </div>
 
             <h1 className="text-5xl md:text-7xl font-extrabold mb-8">
-              Terms of <span className="text-[#e3f700]">Service</span>
+              Terms of <span className="text-bb-yellow">Service</span>
             </h1>
 
             <p className="text-gray-400 text-lg max-w-2xl">
@@ -79,7 +79,7 @@ export default function TermsAndCondition() {
           </div>
 
           {/* Contact */}
-          <div className="mt-24 p-12 bg-[#e3f700] rounded-2xl text-black">
+          <div className="mt-24 p-12 bg-bb-yellow rounded-2xl text-black">
             <h3 className="text-3xl font-bold mb-4">
               Questions regarding these terms?
             </h3>

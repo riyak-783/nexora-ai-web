@@ -6,7 +6,7 @@ export default function Privacy() {
         <section className="px-8 mb-20 max-w-7xl mx-auto">
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-8 border-b border-white/10 pb-12">
             <div className="max-w-2xl">
-              <span className="text-[#e3f700] uppercase text-xs font-bold mb-4 block">
+              <span className="text-bb-yellow uppercase text-xs font-bold mb-4 block">
                 Transparency First
               </span>
 
@@ -17,7 +17,7 @@ export default function Privacy() {
 
             <div className="text-gray-400 max-w-xs">
               <p className="text-sm">
-                Last updated: October 24, 2023. Our commitment to your data
+                Last updated: January 24, 2026. Our commitment to your data
                 security and digital sovereignty.
               </p>
             </div>
@@ -96,7 +96,7 @@ export default function Privacy() {
 
         {/* CTA */}
         <section className="px-8 mt-32 max-w-5xl mx-auto">
-          <div className="bg-[#e3f700] p-12 rounded-2xl text-center">
+          <div className="bg-bb-yellow p-12 rounded-2xl text-center">
             <h3 className="text-3xl font-black text-black mb-6">
               Have Questions About Your Privacy?
             </h3>

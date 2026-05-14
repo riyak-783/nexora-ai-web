@@ -4,7 +4,7 @@ export default function Disclaimer() {
       <main className="pt-32 pb-24 px-6 md:px-12 lg:px-24 max-w-5xl mx-auto">
         {/* Header */}
         <header className="mb-20">
-          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#262626] text-[#e3f700] text-xs font-bold uppercase mb-6">
+          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#262626] text-bb-yellow text-xs font-bold uppercase mb-6">
             Legal Governance
           </div>
 
@@ -92,7 +92,7 @@ export default function Disclaimer() {
 
           <a
             href="mailto:legal@Nexora.com"
-            className="text-[#e3f700] font-bold"
+            className="text-bb-yellow font-bold"
           >
             legal@Nexora.com
           </a>
