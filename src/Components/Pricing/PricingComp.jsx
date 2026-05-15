@@ -4,10 +4,10 @@ import { Constant } from "@/Data/Constant";
 export default function PricingSection() {
   return (
     <div className="bg-[#0e0e0e] text-white">
-      <main className="pt-32">
+      <main className="pt-18">
         {/* Hero */}
         <section className="max-w-7xl mx-auto px-6 py-24 text-center">
-          <h1 className="text-5xl md:text-7xl font-extrabold mb-6 whitespace-pre-line">
+          <h1 className="text-4xl md:text-6xl font-extrabold mb-6 whitespace-pre-line">
             {data.hero.title}
           </h1>
 

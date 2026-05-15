@@ -44,7 +44,7 @@ export default function ServicesComp() {
           OUR SERVICES
         </span>
 
-        <h2 className="text-5xl md:text-6xl font-extrabold mb-6">
+        <h2 className="text-4xl md:text-5xl font-extrabold mb-6">
           What We Offer
         </h2>
 

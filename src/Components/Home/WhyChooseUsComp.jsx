@@ -23,11 +23,11 @@ export default function WhyChooseUsComp() {
             EXCELLENCE DRIVEN
           </span>
 
-          <h2 className="text-5xl md:text-7xl font-extrabold tracking-tight mb-8">
+          <h2 className="text-4xl md:text-6xl font-extrabold tracking-tight mb-8">
             Why Sets <span className="text-bb-yellow italic">Us</span> Apart
           </h2>
 
-          <p className="max-w-2xl mx-auto text-gray-400 text-xl">
+          <p className="max-w-2xl mx-auto text-gray-400 text-lg">
             We combine creativity, strategy, and client satisfaction to help your business thrive in the digital world.
           </p>
         </div>

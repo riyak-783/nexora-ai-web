@@ -66,7 +66,7 @@ export default function HeroSection() {
         </div>
 
         {/* Heading */}
-        <h1 className="font-black leading-none tracking-tighter text-white mb-8 text-[clamp(3rem,8vw,8rem)]">
+        <h1 className="font-black leading-none tracking-tighter text-white mb-8 text-[clamp(3rem,8vw,6rem)]">
           We Grow Businesses <br />
           <span className="text-bb-yellow">
             {displayText}

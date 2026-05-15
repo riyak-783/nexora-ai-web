@@ -51,7 +51,7 @@ export default function ServicesPage() {
             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-[#00b8e6]/10 rounded-full blur-[120px]" />
           </div>
 
-          <h1 className="relative z-10 text-6xl md:text-8xl font-extrabold mb-6 bg-gradient-to-b from-white to-neutral-500 bg-clip-text text-transparent">
+          <h1 className="relative z-10 text-5xl md:text-7xl font-extrabold mb-6 bg-gradient-to-b from-white to-neutral-500 bg-clip-text text-transparent">
             Our Services.
           </h1>
 

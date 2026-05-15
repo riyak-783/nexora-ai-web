@@ -52,7 +52,7 @@ export default function PortfolioComp() {
           <span className="text-bb-yellow font-bold tracking-[0.3em] text-sm uppercase block">
             OUR WORK
           </span>
-          <h2 className="text-5xl md:text-7xl font-extrabold mt-4 mb-6">
+          <h2 className="text-4xl md:text-6xl font-extrabold mt-4 mb-6">
             Our <span className="text-bb-yellow italic">Portfolio</span>
           </h2>
           <p className="text-gray-400 text-lg">
@@ -142,8 +142,7 @@ export default function PortfolioComp() {
         <div className="flex justify-center mt-16">
           <Link
             href="/portfolio"
-            className="px-10 py-4 border-2 border-bb-yellow text-bb-yellow
-              hover:bg-bb-yellow hover:text-black transition-all duration-300
+            className="px-10 py-4 border-2 border-bb-yellow text-bb-yellow transition-all duration-300
               rounded-full font-semibold tracking-wide"
           >
             See All Work

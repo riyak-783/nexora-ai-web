@@ -21,7 +21,7 @@ export default function Portfolio() {
       <main className="pt-32">
         {/* Hero */}
         <section className="text-center px-6 mb-16">
-          <h1 className="text-6xl md:text-8xl font-black mb-6">
+          <h1 className="text-5xl md:text-6xl font-black mb-6">
             Our Digital <span className="text-bb-yellow">Work.</span>
           </h1>
           <p className="text-gray-400 max-w-2xl mx-auto mb-10">
@@ -96,10 +96,10 @@ export default function Portfolio() {
 
         {/* CTA */}
         <section className="text-center pb-32">
-          <h2 className="text-4xl md:text-6xl font-black mb-6">
+          <h2 className="text-4xl md:text-6xl font-black mb-9">
             Have a project in mind?
           </h2>
-          <Link href="/contact" className="bg-bb-yellow text-black px-10 py-4 rounded-full font-bold">
+          <Link href="/contact" className="bg-bb-yellow text-black px-8 py-4 rounded-full font-bold">
             Start a Project
           </Link>
         </section>

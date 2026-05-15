@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function AboutHero() {
   return (
-    <section className="relative min-h-screen flex flex-col items-center justify-center pt-32 pb-20 px-6 overflow-hidden">
+    <section className="relative min-h-screen flex flex-col items-center justify-center pt-20 pb-20 px-6 overflow-hidden">
       <div className="absolute inset-0">
         <div className="absolute top-1/4 -left-20 w-96 h-96 bg-bb-yellow-light rounded-full blur-[120px]" />
 
@@ -14,7 +14,7 @@ export default function AboutHero() {
           The Digital Architect
         </span>
 
-        <h1 className="text-5xl md:text-8xl font-extrabold tracking-tight mb-8">
+        <h1 className="text-4xl md:text-7xl font-extrabold tracking-tight mb-8">
           Helping Businesses <span className="text-bb-yellow">Thrive</span> In
           The Digital World
         </h1>

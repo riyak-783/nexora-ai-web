@@ -36,12 +36,12 @@ export default function Contact() {
     <div className="bg-[#0e0e0e] text-white">
       <main className="pt-24 md:pt-32 pb-16 md:pb-20 px-4 sm:px-6 md:px-12 max-w-7xl mx-auto">
         {/* Hero */}
-        <header className="mb-12 md:mb-20">
-          <h1 className="text-4xl sm:text-5xl md:text-7xl lg:text-8xl font-black mb-4 md:mb-6 leading-tight">
+        <header className="mb-12 md:mb-15">
+          <h1 className="text-3xl sm:text-4xl md:text-6xl lg:text-6xl font-black mb-4 md:mb-6 leading-tight">
             Initiate <span className="text-bb-yellow text-black">Contact</span>.
           </h1>
 
-          <p className="text-gray-400 text-base sm:text-lg md:text-xl max-w-2xl">
+          <p className="text-gray-400 text-base sm:text-lg md:text-lg max-w-2xl">
             Ready to architect your digital product? Our team is ready to help
             turn your vision into reality.
           </p>
