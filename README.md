@@ -420,43 +420,17 @@ CMD ["npm", "start"]
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
 ## 📄 License
 
 This project is open source and available under the MIT License.
 
 ---
-
-## 📞 Contact & Support
-
-**NexoraStudio Contact Information:**
-- 📧 Email: info@nexora.in
-- 📱 Phone: +91 9000000000 / +91 9123456789
-- 💬 WhatsApp: +91 9123456789
-- 📍 Location: India
-- 🔗 Instagram: [@nexora.agency](https://instagram.com/nexora.agency)
-- 🔗 LinkedIn: [NexoraStudio](https://linkedin.com/company/nexora-agency)
-
----
-
 ## 🙏 Acknowledgments
 
 - [Next.js](https://nextjs.org) for the amazing framework
 - [Groq](https://groq.com) for ultra-fast AI inference
 - [Tailwind CSS](https://tailwindcss.com) for styling utilities
 - [React](https://react.dev) for component architecture
-- All contributors and supporters
 
 ---
 
