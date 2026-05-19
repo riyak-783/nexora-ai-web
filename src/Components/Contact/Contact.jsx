@@ -55,26 +55,26 @@ export default function Contact() {
               <input
                 name="name"
                 placeholder="Full Name"
-                className="w-full bg-black border-b border-white/10 p-3 md:p-4 text-sm md:text-base focus:outline-none focus:border-[#e3f700]"
+                className="w-full bg-black border-b border-white/10 p-3 md:p-4 text-sm md:text-base focus:outline-none focus:border-[#00b8e6]"
               />
 
               <input
                 name="email"
                 placeholder="Email Address"
-                className="w-full bg-black border-b border-white/10 p-3 md:p-4 text-sm md:text-base focus:outline-none focus:border-[#e3f700]"
+                className="w-full bg-black border-b border-white/10 p-3 md:p-4 text-sm md:text-base focus:outline-none focus:border-[#00b8e6]"
               />
 
               <input
                 name="phone"
                 placeholder="Phone Number"
-                className="w-full bg-black border-b border-white/10 p-3 md:p-4 text-sm md:text-base focus:outline-none focus:border-[#e3f700]"
+                className="w-full bg-black border-b border-white/10 p-3 md:p-4 text-sm md:text-base focus:outline-none focus:border-[#00b8e6]"
               />
 
               <textarea
                 name="message"
                 placeholder="Your Project Brief"
                 rows="4"
-                className="w-full bg-black border-b border-white/10 p-3 md:p-4 text-sm md:text-base focus:outline-none focus:border-[#e3f700]"
+                className="w-full bg-black border-b border-white/10 p-3 md:p-4 text-sm md:text-base focus:outline-none focus:border-[#00b8e6]"
               />
 
               {/* Buttons */}
